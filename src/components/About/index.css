@@ -1,1 +1,15 @@
 /* Write your CSS here */
+.bg-container-false {
+    background-color: white;
+    color: black;
+}
+
+.bg-container-true {
+    background-color: black;
+    color: white;
+}
+
+
+body {
+    height: 100vh;
+}

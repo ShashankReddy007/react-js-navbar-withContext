@@ -1,1 +1,13 @@
 /* Write your CSS here */
+.bg-container-false {
+    background-color: white;
+    color: black;
+    height: 100vh;
+}
+
+.bg-container-true {
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
